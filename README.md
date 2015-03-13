@@ -1,3 +1,4 @@
+![alt tag](https://sourceforge.net/p/statusr/screenshot/Screenshot%20from%202014-10-29%2016%3A29%3A05.png)
 
 
 
@@ -17,3 +18,5 @@ on ubuntu > sudo apt-get install lynx
 Now it checks to see if you have lynx installed or not and if not it tells you
 the first thing to do is to make the script executable.
 edit the script using a text editor to change the weather link to point to your desired city/station, then edit any thing else you see fit like the DNS you use.
+
+[Video Demo](https://www.youtube.com/watch?v=RK_lWcjUzdw)
